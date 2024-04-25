@@ -25,7 +25,7 @@ export const MeetTheTeam = () => {
                 </p>
                 <div className="flex flex-wrap justify-between gap-10 p-10 max-[713px]:justify-center max-[700px]:px-4">
                     <div className="rounded-lg flex flex-col gap-5 w-[250px]">
-                        <div className="relative w-[250px] h-[250px] bg-[#4285f4] bg-opacity-60 border-4 border-black rounded-xl">
+                        <div className="relative w-[250px] h-[250px] bg-[#4285f4] bg-opacity-60 border-4 border-black rounded-xl shadow-[-5px_5px_0px_0px_#000]">
                             <Image
                                 fill
                                 style={{ objectFit: "cover" }}
@@ -42,7 +42,7 @@ export const MeetTheTeam = () => {
                         </div>
                     </div>
                     <div className="rounded-lg flex flex-col gap-5 w-[250px]">
-                        <div className="relative w-[250px] h-[250px] bg-[#34a853] bg-opacity-60 border-4 border-black rounded-xl">
+                        <div className="relative w-[250px] h-[250px] bg-[#34a853] bg-opacity-60 border-4 border-black rounded-xl shadow-[-5px_5px_0px_0px_#000]">
                             <Image
                                 fill
                                 style={{ objectFit: "cover" }}
@@ -59,7 +59,7 @@ export const MeetTheTeam = () => {
                         </div>
                     </div>
                     <div className="rounded-lg flex flex-col gap-5 w-[250px]">
-                        <div className="relative w-[250px] h-[250px] bg-[#fbbc05] bg-opacity-60 border-4 border-black rounded-xl">
+                        <div className="relative w-[250px] h-[250px] bg-[#fbbc05] bg-opacity-60 border-4 border-black rounded-xl shadow-[-5px_5px_0px_0px_#000]">
                             <Image
                                 fill
                                 style={{ objectFit: "cover" }}

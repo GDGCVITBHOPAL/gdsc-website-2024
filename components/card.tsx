@@ -11,7 +11,7 @@ export interface CardData {
 
 export const Card = ({ data }: { data: CardData }) => {
     return (
-        <div className="w-[250px] h-[303px] rounded-xl border-2 border-black overflow-hidden">
+        <div className="w-[250px] h-[303px] rounded-xl border-2 border-black overflow-hidden shadow-[-5px_5px_0px_0px_#000]">
             <div className="relative h-[125px] w-full bg-white">
                 <Image
                     fill

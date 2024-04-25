@@ -19,7 +19,7 @@ export const Partners = () => {
                         key={id}
                         href={link}
                         target="_blank"
-                        className="relative w-[250px] h-[250px] bg-white bg-opacity-60 border-4 border-black rounded-xl"
+                        className="relative w-[250px] h-[250px] !bg-white bg-opacity-60 border-4 border-black rounded-xl shadow-[-5px_5px_0px_0px_#000]"
                     >
                         <Image
                             fill
