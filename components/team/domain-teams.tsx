@@ -1,4 +1,4 @@
-import { teamTypes } from "@/lib/team";
+import { TeamData, teamTypes } from "@/lib/team";
 import { MemberCard } from "./member-card";
 
 export const DomainTeam = () => {
@@ -9,9 +9,30 @@ export const DomainTeam = () => {
                     <div className="font-bold text-2xl tracking-wide">
                         {teamName}
                     </div>
-                    <div className="flex flex-wrap items-center gap-16 max-[564px]:justify-center">
-                        <MemberCard />
-                        <MemberCard />
+                    <div className="flex flex-wrap items-center justify-center gap-16">
+                        {TeamData.map(
+                            ({ domain, members }) =>
+                                domain == teamName &&
+                                members.map(
+                                    (
+                                        {
+                                            name,
+                                            position,
+                                            profileLink,
+                                            profileImage,
+                                        },
+                                        id
+                                    ) => (
+                                        <MemberCard
+                                            key={id}
+                                            name={name}
+                                            position={position}
+                                            profileLink={profileLink}
+                                            profileImage={profileImage}
+                                        />
+                                    )
+                                )
+                        )}
                     </div>
                 </div>
             ))}
