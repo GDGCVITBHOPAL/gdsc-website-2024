@@ -165,7 +165,7 @@ export const TeamData = [
                 position: "Team Member",
                 profileLink: "https://gdsc.community.dev/u/mwqrky/",
                 profileImage:
-                    "https://res.cloudinary.com/db7nrltsv/image/upload/v1714114115/Mansi_Patwardhan_2_-_MANSI_PATWARDHAN_22BSA10301_v9im1g.jpg",
+                    "https://res.cloudinary.com/db7nrltsv/image/upload/v1714189772/20240204_225705_s0ste3.jpg",
             },
         ],
     },
