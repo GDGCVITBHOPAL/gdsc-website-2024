@@ -222,21 +222,21 @@ export const TeamData = [
             {
                 name: "Anusha Ajith Sreeja",
                 position: "Team Member",
-                profileLink: "https://gdsc.community.dev/u//",
+                profileLink: "https://g.dev/anushaajithsreejagdsc",
                 profileImage:
                     "https://res.cloudinary.com/db7nrltsv/image/upload/v1714114106/Screenshot_20240105-160627_Gallery_-_ANUSHA_A.S_22BCE11374_i0czj1.jpg",
             },
             {
                 name: "Divij Ganjoo",
                 position: "Team Member",
-                profileLink: "https://gdsc.community.dev/u/",
+                profileLink: "https://gdsc.community.dev/u/mpcqu4/",
                 profileImage:
                     "https://res.cloudinary.com/db7nrltsv/image/upload/v1714114123/IMG20230709152404_-_DIVIJ_GANJOO_22BCE11126_e9yptb.jpg",
             },
             {
                 name: "Parth Bhanti",
                 position: "Team Member",
-                profileLink: "https://gdsc.community.dev/u//",
+                profileLink: "https://gdsc.community.dev/u/m6eh9x/",
                 profileImage:
                     "https://res.cloudinary.com/db7nrltsv/image/upload/v1714114117/IMG_20240425_140043_-_Parth_Bhanti_23BCE11758_q8qu4r.jpg",
             },
@@ -309,7 +309,7 @@ export const TeamData = [
             {
                 name: "Shashwat Dimri",
                 position: "Team Member",
-                profileLink: "https://gdsc.community.dev/u//",
+                profileLink: "https://gdsc.community.dev/u/m9953s/",
                 profileImage:
                     "https://res.cloudinary.com/db7nrltsv/image/upload/v1714114114/A5D71261-75F6-4CBF-A452-084ABF3C2033_-_SHASHWAT_DIMRI_22BCE11105_sesw1j.jpg",
             },
