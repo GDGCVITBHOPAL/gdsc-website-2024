@@ -15,6 +15,7 @@ export const Social = () => {
                 <Link
                     href={"https://medium.com/dsc-vit-bhopal"}
                     target="_blank"
+                    rel="noopener noreferrer"
                 >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -31,6 +32,7 @@ export const Social = () => {
                 <Link
                     href={"https://www.facebook.com/dscvitbhopal"}
                     target="_blank"
+                    rel="noopener noreferrer"
                 >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -47,6 +49,7 @@ export const Social = () => {
                 <Link
                     href={"https://twitter.com/dsc_vit"}
                     target="_blank"
+                    rel="noopener noreferrer"
                     className="flex items-center justify-center"
                 >
                     <svg
@@ -64,6 +67,7 @@ export const Social = () => {
                 <Link
                     href={"https://www.instagram.com/dscvitbhopal"}
                     target="_blank"
+                    rel="noopener noreferrer"
                 >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -82,6 +86,7 @@ export const Social = () => {
                         "https://www.youtube.com/channel/UCVr5tPwyUH8rJd5yEhBd94w"
                     }
                     target="_blank"
+                    rel="noopener noreferrer"
                 >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -95,7 +100,11 @@ export const Social = () => {
                     </svg>
                 </Link>
 
-                <Link href={"https://github.com/DSCVITBHOPAL"} target="_blank">
+                <Link
+                    href={"https://github.com/DSCVITBHOPAL"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         x="0px"
@@ -108,7 +117,11 @@ export const Social = () => {
                     </svg>
                 </Link>
 
-                <Link href={"https://discord.gg/3ufQSct"} target="_blank">
+                <Link
+                    href={"https://discord.gg/3ufQSct"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         x="0px"
@@ -124,6 +137,7 @@ export const Social = () => {
                 <Link
                     href={"https://www.linkedin.com/company/dscvitbhopal"}
                     target="_blank"
+                    rel="noopener noreferrer"
                 >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -140,6 +154,7 @@ export const Social = () => {
                 <Link
                     href={"https://chat.whatsapp.com/D2ezrRRITlvKtuMEat9KpA"}
                     target="_blank"
+                    rel="noopener noreferrer"
                 >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"

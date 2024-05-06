@@ -47,6 +47,7 @@ export const Connect = () => {
                                 "https://dsc.community.dev/vellore-institute-of-technology-bhopal/"
                             }
                             target="_blank"
+                            rel="noopener noreferrer"
                             className="hover:transform hover:translate-x-[5px] hover:translate-y-[-5px]"
                         >
                             Join Us
@@ -54,6 +55,7 @@ export const Connect = () => {
                         <Link
                             href={"https://discord.gg/3ufQSct"}
                             target="_blank"
+                            rel="noopener noreferrer"
                             className="hover:transform hover:translate-x-[5px] hover:translate-y-[-5px]"
                         >
                             Chat

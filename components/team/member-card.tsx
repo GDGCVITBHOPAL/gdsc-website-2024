@@ -16,6 +16,7 @@ export const MemberCard = ({
         <Link
             href={profileLink}
             target="_blank"
+            rel="noopener noreferrer"
             className="flex flex-col items-center justify-center gap-4 w-[210px]"
         >
             <Image
